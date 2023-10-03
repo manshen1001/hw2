@@ -2,6 +2,7 @@
 
 # 專案管理
 
+## 甘特圖
 ```mermaid
 gantt
     title A Gantt Diagram
@@ -19,3 +20,8 @@ gantt
     使用者訓練 :b10 , after b8 & b7 , 20d
     使用者測試 : b11 , after b10 & b9 , 25d
 ```
+
+## PERT/CPM圖
+![]()
+
+
